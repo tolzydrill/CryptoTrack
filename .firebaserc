@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "cryptoway-6550d",
+    "cryptotrack": "cryptoway-6550d"
+  },
+  "targets": {}
+}
